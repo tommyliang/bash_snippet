@@ -1,6 +1,6 @@
 #!/bin/bash
 
-~/.bashrc
+~/.bashrc	#run ssh agent script
 
 curr_folder=${PWD}
 echo 'solution folder:'$curr_folder
